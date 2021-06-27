@@ -7,6 +7,9 @@ Different ML algorithms were used for this purpose. The data was imbalanced ther
 * customized approach: I filtered the data with a value of 1 out of 7 GB data and then count the same number of 0 values and added to base data. Results were a CSV file with 800k rows data points but balanced.
 * Selecting appropriate hyperparameters to deal with imbalanced data.
 
+The kernel was developed and ran on kaggle cloud system [here](https://www.kaggle.com/atashnezhad/fraud-detection).
+
+
 In a subproject, a python library for symbolic regression was used on sub-set data. The data normalized and was fed into the algorithm.
 
 
